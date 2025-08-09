@@ -1,0 +1,260 @@
+Claro! Aqui está um **template completo em Markdown** para o seu **Framework de Vibe Coding**, pronto para você copiar, salvar em arquivos ou usar diretamente em um novo repositório.
+
+---
+
+📁 **Nome do Projeto:** `vibe-coding-template`
+
+📁 **Estrutura de Arquivos:**
+```
+vibe-coding-template/
+├── 00_CONTEXT.md
+├── 01_VISION.md
+├── 02_EPICS_STORIES.md
+├── 03_EXECUTION_PLAN.md
+├── 04_TECH_STACK.md
+├── 05_PRP.md
+├── 06_VIBE_GUIDE.md
+└── README.md
+```
+
+---
+
+### ✅ Copie e cole cada bloco abaixo em seu respectivo arquivo.
+
+---
+
+### 📄 `00_CONTEXT.md`
+```markdown
+# Contexto do Projeto
+
+## 🎯 Por que este projeto existe?
+- [Descreva o problema que está resolvendo]
+- [Qual dor você sentiu ou viu nos outros?]
+
+## 🌍 Cenário Atual
+- [O que as pessoas fazem hoje?]
+- [Quais são as soluções existentes e seus limites?]
+
+## 💡 Insight
+- [O que te inspirou?]
+- [Qual foi o "click" que gerou a ideia?]
+
+## 👥 Público-Alvo
+- [Quem vai usar?]
+- [Perfil: técnico, casual, empreendedor, etc.]
+
+## 🚩 Riscos Iniciais
+- [O que pode dar errado?]
+- [Dúvidas ou incertezas no início]
+```
+
+---
+
+### 📄 `01_VISION.md`
+```markdown
+# Visão do Projeto
+
+## 🚀 Visão de Longo Prazo
+> Ex: "Um app que ajuda 100k pessoas a meditarem 5 min por dia."
+
+## 🖼️ Cena Mental
+> Descreva como será o uso ideal do produto:
+> "Um usuário abre o app de manhã, escolhe uma trilha de 5 min, medita, e sente mais foco no trabalho."
+
+## 🏁 Meta de MVP
+> Qual é o menor produto que ainda entrega valor?
+
+## 🌱 Crescimento Futuro
+> Ideias para versões 2.0, 3.0...
+```
+
+---
+
+### 📄 `02_EPICS_STORIES.md`
+```markdown
+# Épicos e Histórias de Usuário
+
+## 🏗️ Épico 1: [Nome do Épico]
+- [ ] Como [papel], quero [ação] para [benefício]
+- [ ] Como [papel], quero [ação] para [benefício]
+
+## 🛠️ Épico 2: [Nome do Épico]
+- [ ] Como [papel], quero [ação] para [benefício]
+- [ ] Como [papel], quero [ação] para [benefício]
+
+## 📤 Épico 3: [Nome do Épico]
+- [ ] Como [papel], quero [ação] para [benefício]
+- [ ] Como [papel], quero [ação] para [benefício]
+
+> Use o formato: "Como [usuário], quero [funcionalidade] para [valor]"
+```
+
+---
+
+### 📄 `03_EXECUTION_PLAN.md`
+```markdown
+# Plano de Execução
+
+## Fase 0: Preparação (Dia 1)
+- [ ] Definir stack tecnológica
+- [ ] Criar repositório
+- [ ] Escrever documentação inicial
+
+## Fase 1: Setup (Dia 2)
+- [ ] Iniciar projeto (ex: `create-react-app`, `npm init`, etc)
+- [ ] Configurar lint, commit lint, README
+- [ ] Criar estrutura de pastas
+
+## Fase 2: MVP Core (Dias 3–7)
+- [ ] Implementar Épico 1
+- [ ] Implementar Épico 2
+- [ ] Testes básicos
+
+## Fase 3: Validação (Dia 8)
+- [ ] Mostrar para 3 pessoas
+- [ ] Coletar feedback
+- [ ] Ajustar prioridades
+
+## Fase 4: Release (Dia 9–10)
+- [ ] Deploy (Vercel, Netlify, etc)
+- [ ] Registrar versão 0.1.0
+- [ ] Compartilhar com comunidade
+
+> ✅ Dica: Estime tempo por tarefa (ex: 1h, 2h)
+```
+
+---
+
+### 📄 `04_TECH_STACK.md`
+```markdown
+# Stack Técnica
+
+## 🖥️ Frontend
+- [Ex: React, Vue, Svelte]
+- [Estilização: Tailwind, Bootstrap, etc]
+
+## ⚙️ Backend
+- [Ex: Node.js, Python Flask, Ruby on Rails]
+- Banco: [SQLite, PostgreSQL, Firebase, etc]
+
+## ☁️ Deploy
+- Frontend: [Vercel, Netlify, GitHub Pages]
+- Backend: [Render, Railway, AWS]
+
+## 🛠️ Ferramentas
+- Git + GitHub/GitLab
+- VS Code / JetBrains
+- Notion / Trello (gestão)
+
+## ✅ Por que essa stack?
+- [Rápida? Familiar? Escalável?]
+```
+
+---
+
+### 📄 `05_PRP.md`
+```markdown
+# Product Requirements (PRP)
+
+## 🎯 Objetivo
+> [Descreva o objetivo principal do produto em uma frase]
+
+## 🔧 Requisitos Funcionais
+1. [Ex: Usuário pode se cadastrar]
+2. [Ex: Usuário pode salvar dados]
+3. [Ex: Interface responsiva]
+
+## 🚫 Requisitos Não Funcionais
+- [Ex: App deve carregar em menos de 2s]
+- [Ex: Funcionar offline]
+- [Ex: Acessibilidade básica]
+
+## 📊 Métricas de Sucesso
+- [Ex: 3 usuários reais usando por 3 dias]
+- [Ex: MVP funcional em 10 dias]
+```
+
+---
+
+### 📄 `06_VIBE_GUIDE.md`
+```markdown
+# Guia de Vibe do Projeto
+
+## 🎵 Música Recomendada
+- [Lo-fi, Synthwave, Jazz, etc]
+- Playlist: [Nome da playlist no Spotify/YouTube]
+
+## 🧘‍♂️ Estado Mental Ideal
+- [Calmo, curioso, sem pressa]
+- Foco em progresso, não perfeição
+
+## 🧱 Estilo de Código
+- Simples > Inteligente
+- Legível > "esperto"
+- Comente só o necessário
+
+## 🔄 Ritmo de Trabalho
+- [Ex: Pomodoro: 25 min foco / 5 min pausa]
+- Máximo [X]h por dia no início
+
+## 🌈 Valores do Projeto
+- Diversão em primeiro lugar
+- Aprender algo novo
+- Terminar com orgulho, mesmo que simples
+```
+
+---
+
+### 📄 `README.md`
+```markdown
+# Nome do Projeto
+
+🚀 [Breve descrição do que é o projeto]
+
+> "Um app para [objetivo principal]"
+
+---
+
+## 📚 Documentação
+Este projeto usa o **Framework de Vibe Coding** para manter clareza, foco e energia positiva.
+
+| Arquivo | Propósito |
+|--------|----------|
+| `00_CONTEXT.md` | Por que isso existe? |
+| `01_VISION.md`  | Onde queremos chegar? |
+| `02_EPICS_STORIES.md` | O que vamos construir? |
+| `03_EXECUTION_PLAN.md` | Como vamos fazer? |
+| `04_TECH_STACK.md` | Tecnologias usadas |
+| `05_PRP.md` | Requisitos do produto |
+| `06_VIBE_GUIDE.md` | Como queremos nos sentir ao codar? |
+
+---
+
+## ▶️ Começar
+1. Clone este repositório
+2. Leia `00_CONTEXT.md` primeiro
+3. Siga o plano em `03_EXECUTION_PLAN.md`
+
+✨ Bem-vindo à jornada!
+```
+
+---
+
+## 📥 Como Usar
+
+1. Crie uma nova pasta para seu projeto.
+2. Crie cada arquivo acima com o nome exato.
+3. Preencha com seu conteúdo real.
+4. Antes de codar, leia `00_CONTEXT.md` e `06_VIBE_GUIDE.md` para entrar na vibe.
+
+---
+
+Se quiser, posso gerar um **arquivo `.zip`** com essa estrutura pronta. É só me dizer!
+
+Ou, se preferir, posso adaptar esse template para:
+- Projetos web com React
+- Apps mobile com Flutter
+- Projetos de IA com Python
+- Jogos com Unity ou Godot
+
+É só pedir! 🚀
