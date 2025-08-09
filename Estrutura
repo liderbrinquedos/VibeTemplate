@@ -1,0 +1,9 @@
+vibe-coding-template/
+├── 00_CONTEXT.md
+├── 01_VISION.md
+├── 02_EPICS_STORIES.md
+├── 03_EXECUTION_PLAN.md
+├── 04_TECH_STACK.md
+├── 05_PRP.md
+├── 06_VIBE_GUIDE.md
+└── README.md
