@@ -1,1 +1,21 @@
+# Contexto do Projeto
 
+## 🎯 Por que este projeto existe?
+- [Descreva o problema que está resolvendo]
+- [Qual dor você sentiu ou viu nos outros?]
+
+## 🌍 Cenário Atual
+- [O que as pessoas fazem hoje?]
+- [Quais são as soluções existentes e seus limites?]
+
+## 💡 Insight
+- [O que te inspirou?]
+- [Qual foi o "click" que gerou a ideia?]
+
+## 👥 Público-Alvo
+- [Quem vai usar?]
+- [Perfil: técnico, casual, empreendedor, etc.]
+
+## 🚩 Riscos Iniciais
+- [O que pode dar errado?]
+- [Dúvidas ou incertezas no início]
